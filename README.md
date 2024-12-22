@@ -63,5 +63,8 @@ We welcome contributions to PirateBot! If you'd like to contribute, please follo
 4. Push your changes to your forked repository.
 5. Create a pull request with a detailed description of your changes.
 
+##Invite
+This is the invite: [INVITE](https://discord.com/oauth2/authorize?client_id=1269974010721075220&permissions=8&integration_type=0&scope=bot+applications.commands)
+
 ## License
 PirateBot is licensed under the MIT License. See the [LICENSE](https://github.com/AndreaLestingi/PirateBot/blob/main/LICENSE) file for more information.
