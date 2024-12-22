@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "@blad3mak3r/reddit-memes": "^0.2.7",
+    "ascii-table": "^0.0.9",
+    "dotenv": "^16.4.7",
+    "fs": "^0.0.1-security",
+    "mongoose": "^8.9.2",
+    "random-memes": "^3.2.6",
+    "snakecord": "^1.0.9"
+  },
+  "compilerOptions": {
+    "target": "ES2020",
+    "moduleResolution": "node",
+    "baseUrl": "./",
+    "paths": {
+      "*": [
+        "node_modules/*"
+      ]
+    }
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "devDependencies": {
+    "discord.js": "^14.16.3"
+  }
+}
